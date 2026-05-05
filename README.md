@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Classes-3-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/GPU-NVIDIA%20T4%20(Kaggle)-yellow?style=flat-square"/>
   <img src="https://img.shields.io/badge/Framework-Ultralytics-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/License-MIT-informational?style=flat-square"/>
 </p>
 
 </div>
@@ -86,8 +85,6 @@ dataset/
 ```
 
 **→ [Download the annotated dataset here](YOUR_DATASET_LINK)**
-
-> Replace the link above with your Google Drive / Kaggle dataset / Roboflow URL.
 
 **Classes:**
 - `0` — Smartphone (various models, orientations, cases)
@@ -280,18 +277,6 @@ Place `best.pt` in the same directory as your inference script and run directly.
 
 ---
 
-## Repository Structure
-
-```
-yolov11s-object-detection/
-├── realtime_detect.py        # Webcam inference script
-├── image_detect.py           # Static image inference script
-├── best.pt                   # Trained model weights (download separately)
-└── README.md
-```
-
-> `best.pt` is not included in this repository due to file size. Download it from the link below or train your own using the scripts above.
-
 ---
 
 ## Challenges & Solutions
@@ -319,7 +304,6 @@ yolov11s-object-detection/
 
 ## License
 
-This project is released under the [MIT License](LICENSE).  
 Designed by **[Aazan Ali Khan](https://aazanalikhan.vercel.app)** — feel free to use, modify, and build upon it.
 
-📄 [View Full Documentation & Project Page](https://aazanalikhan.vercel.app/projects/yolov11s-object-detection)
+📄 [View Full Documentation](https://aazanalikhan.vercel.app/projects/yolov11s-object-detection)
