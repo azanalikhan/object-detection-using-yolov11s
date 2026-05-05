@@ -84,7 +84,7 @@ dataset/
     └── labels/
 ```
 
-**→ [Download the annotated dataset here](YOUR_DATASET_LINK)**
+**→ [Download the Dataset here]([YOUR_DATASET_LINK](https://aazanalikhan.vercel.app/projects/project_4/project4.html))**
 
 **Classes:**
 - `0` — Smartphone (various models, orientations, cases)
@@ -306,4 +306,4 @@ Place `best.pt` in the same directory as your inference script and run directly.
 
 Designed by **[Aazan Ali Khan](https://aazanalikhan.vercel.app)** — feel free to use, modify, and build upon it.
 
-📄 [View Full Documentation](https://aazanalikhan.vercel.app/projects/yolov11s-object-detection)
+📄 [View Full Documentation](https://aazanalikhan.vercel.app/projects/project_3/project3.html)
