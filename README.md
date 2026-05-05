@@ -84,7 +84,7 @@ dataset/
     └── labels/
 ```
 
-**→ [Download the Dataset here]([https://aazanalikhan.vercel.app/projects/project_4/project4.html]))**
+**→ [Download the Dataset here]([https://aazanalikhan.vercel.app/projects/project_4/project4.html])**
 
 **Classes:**
 - `0` — Smartphone (various models, orientations, cases)
